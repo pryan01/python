@@ -1,0 +1,8 @@
+cara kerja program tersebut adalah 
+1.anda memiliki 3 kesempatan menebak angka yang benar dari angka 1 sampai 10
+2.jika Anda menebak angka terlalu besar maka program akan otomatis memberitahu 
+jawaban kamu terlalu besar
+3.jika Anda menebak angka terlalu kecil maka program akan otomatis memberitahu 
+jawaban kamu terlalu kecil
+4.jika Anda menebak angka dengan benar maka program akan otomatis berhenti dan menampilkan
+sisa kesempatan anda
